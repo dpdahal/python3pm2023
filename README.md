@@ -1,1 +1,5 @@
-# python3pm2023
+# Python 3pm Class
+## Introduction
+    - input
+    - output
+    - data types
